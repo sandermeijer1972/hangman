@@ -11,7 +11,8 @@ const TextInput = props => (
     />
     <input
       type="submit"
-      value="guess"
+      className="button"
+      value="raad een letter"
       disabled={props.gameIsOver ? "disabled" : ""}
     />
   </form>

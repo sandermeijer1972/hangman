@@ -8,7 +8,7 @@ const generateWordDashMix = (word, letters) =>
 
 const ChosenWord = props => (
   <>
-    <h2>Current word:</h2>
+    <h2>huidig woord:</h2>
     <div className="the_word">
       {generateWordDashMix(props.word, props.guessedLetters)}
     </div>

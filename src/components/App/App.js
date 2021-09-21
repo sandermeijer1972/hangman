@@ -33,8 +33,8 @@ const App = props => {
 
   return (
     <div className="App">
-      <h1>Simple 'Hangman' Game</h1>
-      <p>[no people will actually be harmed during this game]</p>
+      <h1>Raad het Woord</h1>
+      <p>[er wordt niemand echt pijn aangedaan tijdens het spel]</p>
       {gameOver}
       <TextInput
         currentChosenLetter={game.currentChosenLetter}

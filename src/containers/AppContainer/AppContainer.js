@@ -4,17 +4,24 @@ import App from "../../components/App/App";
 const wordList = [
   "vis",
   "toeter",
-  "developer",
+  "bruidstaart",
   "telefoon",
   "moeder",
   "snoer",
   "geeuw",
   "angstschreeuw",
-  "waterscooter",
+  "scooterdief",
   "depressief",
   "waterlelie",
   "diepzeeduiker",
-  "antilope"
+  "antilope",
+  "uitlaat",
+  "fietsbel",
+  "roltrap",
+  "kauwgom",
+  "supermarkt",
+  "goud",
+  "boswandeling"
 ];
 
 const maxGuesses = 5;
